@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sort.h">
+    <ClInclude Include="modul_2\Sort.h">
       <Filter>Pliki nagłówkowe\modul_2</Filter>
     </ClInclude>
   </ItemGroup>
