@@ -1,3 +1,4 @@
+//Maksymalna liczba w ciągu
 #include <iostream>
 using namespace std;
 
