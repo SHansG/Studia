@@ -1,4 +1,4 @@
-Spoj 4.1 Mnożenie transpozycji macierzy przez wektor
+//Spoj 4.1 Mnożenie transpozycji macierzy przez wektor
 #include <iostream>
 #include <iomanip>
 #include <math.h>
